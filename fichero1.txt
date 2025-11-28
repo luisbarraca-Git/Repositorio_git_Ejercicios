@@ -1,2 +1,4 @@
-Contenido inicial fichero 1
+Contenido inicial del fichero 1
 Contenido posterior a clonar
+Contenido particular del repo 2
+Contenido particular del repo 1
